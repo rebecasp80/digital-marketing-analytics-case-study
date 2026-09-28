@@ -20,21 +20,36 @@ Aumentar la visibilidad de la marca, optimizar la conversión en el canal online
 ## 📁 Estructura del Repositorio
 
 digital-marketing-analytics-case-study/
+
 │
+
 ├── README.md
+
 │
+
 ├── License.txt
+
 │
+
 ├── estrategia/
+
 │   ├── 1-propuesta-comercializacion-interna.pdf
+
 │   └── 4-estrategia-marketing-digital.pdf
+
 │
+
 ├── analitica-seo/
+
 │   ├── 2-ajuste-palabras-clave.xlsx
+
 │   └── 3-informe-analisis-metricas.xlsx
+
 │
+
 └── ejecucion-presentacion/
-    └── 5-presentacion-informe-marketing-fin-de-ano.pptx
+
+   └── 5-presentacion-informe-marketing-fin-de-ano.pptx
 
 ---
 
